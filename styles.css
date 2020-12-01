@@ -46,7 +46,7 @@ img {
 
 #txt-input,
 #output-msg {
-  border: 2px solid black;
+  border: 3px solid black;
   background: transparent;
   color: white;
   font-weight: 600;
